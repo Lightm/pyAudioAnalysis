@@ -18,8 +18,7 @@ import audioSegmentation as aS
 import audioVisualization as aV
 import audioBasicIO
 import utilities as uT
-import scipy.io.wavfile as wavfile
-import matplotlib.patches
+
 
 
 def dirMp3toWavWrapper(directory, samplerate, channels):
